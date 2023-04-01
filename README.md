@@ -60,11 +60,14 @@ python3 utils/visualize_lidar.py --type [lidar / semantic_lidar / radar] --sourc
 ## Citation
 
 ```latex
-@article{FLCAV,
-  title={Federated deep learning meets autonomous vehicle perception: Design and verification},
-  author={Shuai Wang and Chengyang Li and Derrick Wing Kwan Ng and Yonina C. Eldar and H. Vincent Poor and Qi Hao and Chengzhong Xu},
-  journal={submitted to IEEE for possible publication},
+@article{CarlaFLOTA,
+  title={Edge federated learning via unit-modulus over-the-air computation},
+  author={Shuai Wang and Yuncong Hong and Rui Wang and Qi Hao and Yik-Chung Wu and Derrick Wing Kwan Ng},
+  journal={IEEE Transactions on Communications},
   year={2022},
+  volume={70},
+  number={5},
+  pages={3141--3156},
   publisher={IEEE}
 }
 ```
