@@ -187,15 +187,27 @@ Please submit pull requests to the main repository.
 If you use this tool in your research, please cite:
 
 ```bibtex
-@article{wang2022federated,
-  title={Federated deep learning meets autonomous vehicle perception: Design and verification},
+@inproceedings{li2026memory,
+  title={Memory Centric Power Allocation for Multi-Agent Embodied Question Answering},
+  author={Li, Chengyang and Wang, Shuai and Ye, Kejiang and Yuan, Weijie and Zhou, Boyu and Wu, Yik-Chung and Xu, Chengzhong and Arslan, Huseyin},
+  booktitle={2026 IEEE Global Communications Conference (GLOBECOM)},
+  address={Macau, China},
+  month={Dec.},
+  year={2026},
+  publisher={IEEE},
+  note={arXiv:2604.17810}
+}
+
+@article{wang2023federated,
+  title={Federated Deep Learning Meets Autonomous Vehicle Perception: Design and Verification},
   author={Wang, Shuai and Li, Chengyang and Ng, Derrick Wing Kwan and Eldar, Yonina C and Poor, H Vincent and Hao, Qi and Xu, Chengzhong},
-  journal={IEEE network},
+  journal={IEEE Network},
   volume={37},
   number={3},
   pages={16--25},
-  year={2022},
-  publisher={IEEE}
+  year={2023},
+  publisher={IEEE},
+  doi={10.1109/MNET.001.2200312}
 }
 ```
 
